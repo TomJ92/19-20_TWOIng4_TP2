@@ -87,7 +87,7 @@ nav ul li:last-child {
 
 h1 {
     color: #4b5c66;
-    font-size: 1.5em;
+    font-size: 1.5rem;
     font-weight: normal;
     margin: 0 0 8px 0;
 }
@@ -223,9 +223,6 @@ nav a.history { background: url("../img/icon/history.png") no-repeat 0px; }
         text-align: right;
     }
 }
-
-
-
 @media only screen and (max-width: 768px)
 {
     [class*="champ_recherche"]
@@ -238,5 +235,31 @@ nav a.history { background: url("../img/icon/history.png") no-repeat 0px; }
     [class*="share"]
     {
         display: none;
+    }
+}
+@media only screen and (min-width: 1400px)
+{
+    body{
+        font-size: 110%;
+    }
+}
+@media only screen and (min-width: 600px) and (max-width: 1400px)
+{
+    body{
+        font-size: 100%;
+    }
+}
+
+@media only screen and (max-width: 600px) and (min-width: 450px)
+{
+    body{
+        font-size: 90%;
+    }
+}
+
+@media only screen and (max-width: 450px)
+{
+    body{
+        font-size: 80%;
     }
 }
