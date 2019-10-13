@@ -4,7 +4,9 @@
     font-style: normal; 
     font-weight: bold;
 }
-
+.material-icons {
+    vertical-align: middle;
+}
 * { 
     font-family: 'My Lucida', Console;
 }
