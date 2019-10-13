@@ -1,0 +1,10 @@
+- Align Material Design icons verticcaly - Stackoverflow : https://stackoverflow.com/questions/43360526/align-material-icon-vertically
+- Material Design icons - Material Design : https://material.io/resources/icons/?icon=power_settings_new&style=baseline
+- Dropdowns in Bootstrap - Bootstrap : https://getbootstrap.com/docs/4.2/components/dropdowns/
+- Grid in Bootstrap - Bootstrap : https://getbootstrap.com/docs/4.2/layout/grid/
+- Bootstrap : https://getbootstrap.com
+- Convert px into em - W3Schools: https://www.w3schools.com/tags/ref_pxtoemconversion.asp
+- Change font-size : https://developer.mozilla.org/fr/docs/Web/CSS/font-size
+
+
+
